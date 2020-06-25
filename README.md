@@ -1,11 +1,11 @@
 ## In-Memory-File-System
 
-Software Requirements: 
+###Software Requirements: 
 ***************************** 
 1. Python 3 [ To run the Program] 
 2. A Python IDE (e.g: Pycharm, Atom, VSCode) [ To Browse the Codes ]  
 
-Supported Modules: 
+###Features: 
 ************************* 
 1. Create A Folder 
 2. Create A File 
@@ -21,13 +21,13 @@ Supported Modules:
 11. Watch Current Directory   
 12. Watch Current Directory Files
 
-Run Instructions: 
+###How To Run: 
 ******************************* 
 1. Unzip The Folder "InMemoryFileSystem" 
 2. Load All The Classes in the folder Or Run the folder in "Open As A Project" in the IDE. 
 3. Go To The Main.py To Run  
 
-User Manual: 
+###User Manual: 
 ********************************* 
 >> Initially The Program will show you in which directory you're now. Then You can change the directoy by typing ("Yes" or "No")
 >> To Change the Directory give An Exact memory location (e.g: C:\Users\Md Redwanuzzaman\Desktop ) 
@@ -44,7 +44,7 @@ User Manual:
 11. To watch Curent Directory just Choose option 11
 12. To watch Current Directory Files 
 
-Error Codes: 
+###Error Codes: 
 ********************* 
 1. FileNotFoundError: In Case The File We Want To Modify Does Not Exist. 
 2. FileExistsError: In Case The File We Want To Create Already Exists. 
