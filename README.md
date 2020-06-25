@@ -3,7 +3,7 @@
 Software Requirements: 
 ***************************** 
 1. Python 3 [ To run the Program] 
-2. A Python Ide (e.g: Pycharm, Atom, VSCode) [ To Browse the Codes ]  
+2. A Python IDE (e.g: Pycharm, Atom, VSCode) [ To Browse the Codes ]  
 
 Supported Modules: 
 ************************* 
