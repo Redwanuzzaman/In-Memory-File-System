@@ -29,8 +29,8 @@ Run Instructions:
 
 User Manual: 
 ********************************* 
->> Initially The Program will show you in which directory you're now. The You can change the directoy by typig ("Yes" or "No")
->> To Change the directory give An Exact memory location (e.g: C:\Users\Md Redwanuzzaman\Desktop ) 
+>> Initially The Program will show you in which directory you're now. Then You can change the directoy by typing ("Yes" or "No")
+>> To Change the Directory give An Exact memory location (e.g: C:\Users\Md Redwanuzzaman\Desktop ) 
 1. For Creating A Folder: Choose Option 1. Then Write The Folder Name: (e.g: Test Folder)  
 2. For Creating A File: name the file. [use the file extension (e.g: file.txt)]  
 3. For Adding A Directory To Another Directory:  add(source location, destination location) 
